@@ -38,16 +38,11 @@ h1 {
 
 p,
 h2 {
+    font-family: 'Lugrasimo', cursive;
     text-align: center;
-    color: lightcoral;
+    color: lavender;
 
 }
-
-section,
-h2 {
-    text-shadow: black;
-}
-
 
 .fixed-header {
     position: fixed;
@@ -60,9 +55,12 @@ h2 {
 section,
 
 p {
-    font-family: 'Fugaz One', cursive;
-
+    font-family: 'Lugrasimo', cursive;
+    color: lavender;
+    font-size: 25px;
 }
+
+
 
 img {
     width: 255px;
@@ -74,7 +72,7 @@ a {
 }
 
 button {
-    background-color: white;
+    background-color: rgba(18, 230, 230, 0.722);
     width: 100px;
     height: 150px;
     background-position: center;
