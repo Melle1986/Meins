@@ -1,0 +1,29 @@
+body {
+    margin: 100px;
+    padding: 1Px;
+    height: 0%;
+    height: 0%;
+    background-image: linear-gradient(rgba(5, 5, 5, 0.861), rgba(255, 0, 0, 0.575));
+}
+
+ul,
+ol {
+    font-family: 'Lugrasimo', cursive;
+    color: rgb(15, 15, 50);
+    font-size: 30px;
+}
+
+h1 {
+    color: transparent;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    text-shadow: 0px 3px 3px rgba(255, 255, 255, 0.5);
+    font-size: 50px;
+}
+
+a {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
