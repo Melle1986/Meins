@@ -52,15 +52,11 @@ h2 {
     z-index: 9999;
 }
 
-section,
-
-p {
+section,p {
     font-family: 'Lugrasimo', cursive;
     color: lavender;
     font-size: 23px;
 }
-
-
 
 img {
     width: 255px;
@@ -78,12 +74,16 @@ button {
     background-position: center;
 }
 
+
 .container {
     display: flex;
     justify-content: center;
     align-items: center;
     height: 50%;
 }
+
+
+
 
 .container {
     display: flex;

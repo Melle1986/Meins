@@ -7,10 +7,10 @@ body {
 }
 
 .container {
-     font-family: 'Lugrasimo', cursive;
+    font-family: 'Lugrasimo', cursive;
     color: rgb(15, 15, 50);
     font-size: 30px;
-  }
+}
 
 h1 {
     color: transparent;
@@ -24,10 +24,12 @@ h1 {
 a {
     text-align: center;
     color: white;
-    font-size: 25px;
+    font-size: 30px;
 }
-img{: flex;
-justify-content: center;
-align-items: center;
-height: 100vh;
+
+img {
+    : flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
